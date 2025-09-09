@@ -325,6 +325,8 @@ span {
 
 .about-details .left img:hover {
   transform: scale(1.05);
+    transform: scale(1.1);
+      content: url("images/profile-2.jpg");
 }
 
 .about-details .right {
